@@ -103,6 +103,9 @@ Created visualizations using Matplotlib and Seaborn to present:
 - `annual_immigration_trend.csv` – Annual immigration summary.
 - `top5_countries.csv` – Top five countries by cumulative counts.
 - `canada_immigration_long.csv` – Transformed immigration dataset.
+- `annual_immigration_trend.png` – Annual immigration trend visualization.
+- `top5_countries.png` – Top five countries visualization.
+- `top5_countries_trend.png` – Immigration trend comparison for the top five countries.
 - `README.md` – Project documentation.
 
 ## **Conclusion**
